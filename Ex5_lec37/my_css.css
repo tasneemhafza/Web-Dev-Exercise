@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    border: 2px solid black;
+    height: 130vh;
+    width: 100vw;
+    overflow-y: scroll;
+    background-color: gray;
+}
+nav{
+    border: 2px solid black;
+    height: 10vh;
+    background-color: palevioletred;
+    position: sticky;
+}
+footer{
+    border: 2px solid black;
+    height: 10vh;
+    background-color: palevioletred;
+}
+.one{
+    background-color: green;
+    border: 3px solid black;
+    height: 400px;
+    width: 400px;
+    margin: 150px;
+    padding: 0 20px;
+    display: inline-block;
+}
+.two{
+    border: 3px solid black;
+    height: 400px;
+    width: 400px;
+    margin: 9px;
+    padding: 0;
+    display: inline-block;
+}
+.three{
+    background-color: purple;
+    border: 3px solid black;
+    height: 20vh;
+    width: 70vw;
+    text-align: center;
+    font-size: 60px;
+    margin: 190px;
+}
